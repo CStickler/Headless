@@ -4,7 +4,7 @@
   "region": "US-C",
   "environments": [
     {
-      "name": "Production",
+      "name": "production",
       "branch": "main",
       "wp_environment_name": "headlessone",
       "env_variables": [
